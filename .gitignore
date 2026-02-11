@@ -9,7 +9,7 @@ archive
 output
 *.rar
 *.zip
-*.txt
+# *.txt
 # *.pem
 
 # Byte-compiled / optimized / DLL files
